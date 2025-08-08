@@ -1,0 +1,565 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3B73C36D2E463B5D005692F6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B73C3562E463B5A005692F6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B73C35D2E463B5A005692F6;
+			remoteInfo = "Defender Offboarding Manager";
+		};
+		3B73C3772E463B5D005692F6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B73C3562E463B5A005692F6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B73C35D2E463B5A005692F6;
+			remoteInfo = "Defender Offboarding Manager";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3B73C35E2E463B5A005692F6 /* Defender Offboarding Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Defender Offboarding Manager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B73C36C2E463B5D005692F6 /* Defender Offboarding ManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Defender Offboarding ManagerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B73C3762E463B5D005692F6 /* Defender Offboarding ManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Defender Offboarding ManagerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3B73C3912E4647C1005692F6 /* Exceptions for "Defender Offboarding Manager" folder in "Defender Offboarding Manager" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3B73C35D2E463B5A005692F6 /* Defender Offboarding Manager */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3B73C3602E463B5A005692F6 /* Defender Offboarding Manager */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3B73C3912E4647C1005692F6 /* Exceptions for "Defender Offboarding Manager" folder in "Defender Offboarding Manager" target */,
+			);
+			path = "Defender Offboarding Manager";
+			sourceTree = "<group>";
+		};
+		3B73C36F2E463B5D005692F6 /* Defender Offboarding ManagerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Defender Offboarding ManagerTests";
+			sourceTree = "<group>";
+		};
+		3B73C3792E463B5D005692F6 /* Defender Offboarding ManagerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Defender Offboarding ManagerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B73C35B2E463B5A005692F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C3692E463B5D005692F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C3732E463B5D005692F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B73C3552E463B5A005692F6 = {
+			isa = PBXGroup;
+			children = (
+				3B73C3602E463B5A005692F6 /* Defender Offboarding Manager */,
+				3B73C36F2E463B5D005692F6 /* Defender Offboarding ManagerTests */,
+				3B73C3792E463B5D005692F6 /* Defender Offboarding ManagerUITests */,
+				3B73C35F2E463B5A005692F6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B73C35F2E463B5A005692F6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B73C35E2E463B5A005692F6 /* Defender Offboarding Manager.app */,
+				3B73C36C2E463B5D005692F6 /* Defender Offboarding ManagerTests.xctest */,
+				3B73C3762E463B5D005692F6 /* Defender Offboarding ManagerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B73C35D2E463B5A005692F6 /* Defender Offboarding Manager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B73C3802E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding Manager" */;
+			buildPhases = (
+				3B73C35A2E463B5A005692F6 /* Sources */,
+				3B73C35B2E463B5A005692F6 /* Frameworks */,
+				3B73C35C2E463B5A005692F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3B73C3602E463B5A005692F6 /* Defender Offboarding Manager */,
+			);
+			name = "Defender Offboarding Manager";
+			packageProductDependencies = (
+			);
+			productName = "Defender Offboarding Manager";
+			productReference = 3B73C35E2E463B5A005692F6 /* Defender Offboarding Manager.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3B73C36B2E463B5D005692F6 /* Defender Offboarding ManagerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B73C3832E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding ManagerTests" */;
+			buildPhases = (
+				3B73C3682E463B5D005692F6 /* Sources */,
+				3B73C3692E463B5D005692F6 /* Frameworks */,
+				3B73C36A2E463B5D005692F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B73C36E2E463B5D005692F6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3B73C36F2E463B5D005692F6 /* Defender Offboarding ManagerTests */,
+			);
+			name = "Defender Offboarding ManagerTests";
+			packageProductDependencies = (
+			);
+			productName = "Defender Offboarding ManagerTests";
+			productReference = 3B73C36C2E463B5D005692F6 /* Defender Offboarding ManagerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3B73C3752E463B5D005692F6 /* Defender Offboarding ManagerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B73C3862E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding ManagerUITests" */;
+			buildPhases = (
+				3B73C3722E463B5D005692F6 /* Sources */,
+				3B73C3732E463B5D005692F6 /* Frameworks */,
+				3B73C3742E463B5D005692F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B73C3782E463B5D005692F6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3B73C3792E463B5D005692F6 /* Defender Offboarding ManagerUITests */,
+			);
+			name = "Defender Offboarding ManagerUITests";
+			packageProductDependencies = (
+			);
+			productName = "Defender Offboarding ManagerUITests";
+			productReference = 3B73C3762E463B5D005692F6 /* Defender Offboarding ManagerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B73C3562E463B5A005692F6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					3B73C35D2E463B5A005692F6 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					3B73C36B2E463B5D005692F6 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3B73C35D2E463B5A005692F6;
+					};
+					3B73C3752E463B5D005692F6 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3B73C35D2E463B5A005692F6;
+					};
+				};
+			};
+			buildConfigurationList = 3B73C3592E463B5A005692F6 /* Build configuration list for PBXProject "Defender Offboarding Manager" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B73C3552E463B5A005692F6;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3B73C35F2E463B5A005692F6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B73C35D2E463B5A005692F6 /* Defender Offboarding Manager */,
+				3B73C36B2E463B5D005692F6 /* Defender Offboarding ManagerTests */,
+				3B73C3752E463B5D005692F6 /* Defender Offboarding ManagerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B73C35C2E463B5A005692F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C36A2E463B5D005692F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C3742E463B5D005692F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B73C35A2E463B5A005692F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C3682E463B5D005692F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B73C3722E463B5D005692F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3B73C36E2E463B5D005692F6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B73C35D2E463B5A005692F6 /* Defender Offboarding Manager */;
+			targetProxy = 3B73C36D2E463B5D005692F6 /* PBXContainerItemProxy */;
+		};
+		3B73C3782E463B5D005692F6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B73C35D2E463B5A005692F6 /* Defender Offboarding Manager */;
+			targetProxy = 3B73C3772E463B5D005692F6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3B73C37E2E463B5D005692F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3B73C37F2E463B5D005692F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		3B73C3812E463B5D005692F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Defender Offboarding Manager/Defender_Offboarding_Manager.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Defender Offboarding Manager/Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.defender.offboarder;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		3B73C3822E463B5D005692F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Defender Offboarding Manager/Defender_Offboarding_Manager.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Defender Offboarding Manager/Info.plist";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.defender.offboarder;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		3B73C3842E463B5D005692F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defender.offboarder.Defender-Offboarding-ManagerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Defender Offboarding Manager.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Defender Offboarding Manager";
+			};
+			name = Debug;
+		};
+		3B73C3852E463B5D005692F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defender.offboarder.Defender-Offboarding-ManagerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Defender Offboarding Manager.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Defender Offboarding Manager";
+			};
+			name = Release;
+		};
+		3B73C3872E463B5D005692F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defender.offboarder.Defender-Offboarding-ManagerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Defender Offboarding Manager";
+			};
+			name = Debug;
+		};
+		3B73C3882E463B5D005692F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.defender.offboarder.Defender-Offboarding-ManagerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Defender Offboarding Manager";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B73C3592E463B5A005692F6 /* Build configuration list for PBXProject "Defender Offboarding Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B73C37E2E463B5D005692F6 /* Debug */,
+				3B73C37F2E463B5D005692F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B73C3802E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B73C3812E463B5D005692F6 /* Debug */,
+				3B73C3822E463B5D005692F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B73C3832E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding ManagerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B73C3842E463B5D005692F6 /* Debug */,
+				3B73C3852E463B5D005692F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B73C3862E463B5D005692F6 /* Build configuration list for PBXNativeTarget "Defender Offboarding ManagerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B73C3872E463B5D005692F6 /* Debug */,
+				3B73C3882E463B5D005692F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3B73C3562E463B5A005692F6 /* Project object */;
+}
