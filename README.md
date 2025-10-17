@@ -121,3 +121,19 @@ Before using this application, you must configure the following:
 
 ## 📜 Modification History
 - **v1.0.0** — Initial release with core functionality
+
+---
+## 👤 Author
+
+**Eddie Jimenez**  
+[![GitHub](https://img.shields.io/badge/GitHub-eddie--jimenez-black?logo=github&logoColor=white)](https://github.com/eddie-jimenez)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eddie_p_jimenez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddie-p-jimenez/)
+
+
+---
+
+<p align="center">
+  <strong>⭐ If this project helps you, please give it a star! ⭐</strong>
+</p>
+
+
